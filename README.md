@@ -1,4 +1,4 @@
-<table>
+
 <tr>
 <td>
 
@@ -20,4 +20,4 @@ I’m particularly interested in developing technology that improves efficiency 
 
 </td>
 </tr>
-</table>
+
