@@ -10,7 +10,8 @@ I’m currently strengthening my skills in **Data Structures & Algorithms**, **W
 
 I have built:
 - **Complaint Management System** – A platform to efficiently manage and track user complaints  
-- **AI-Powered Leave Letter Generator** - Built a Generative AI-based application using LLM APIs to automatically generate structured and context-aware leave letters.  
+- **AI-Powered Leave Letter Generator** - Built a Generative AI-based application using LLM APIs to automatically generate structured and context-aware leave letters.
+  
 I’m particularly interested in developing technology that improves efficiency and simplifies everyday tasks.
 
 <b>Let's connect!</b>
