@@ -5,7 +5,7 @@
 
 ### Hi there! 👋
 
-I'm <a href="https://www.linkedin.com/in/afifataskeen"><b>Afifa</b></a>, a Computer Science (Artificial Intelligence) student interested in software development and building solutions that make everyday tasks simpler and easier.
+I'm <a href="https://www.linkedin.com/in/afifataskeen"><b>Afifa</b></a>, a Computer Science (Artificial Intelligence) student interested in software development and building solutions that make everyday tasks simpler .
 
 **Projects**
 - **Adaptive AAC Platform** *(in development)*: An Augmentative and Alternative Communication platform to support communication for children with cerebral palsy.
