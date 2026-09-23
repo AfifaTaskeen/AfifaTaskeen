@@ -1,18 +1,15 @@
 
+
 <tr>
 <td>
 
-### Hi there! 🖐️
+### Hi there! 👋
 
-I'm <a href="https://www.linkedin.com/in/afifataskeen"><b>Afifa</b></a>, a Computer Science (Artificial Intelligence) student focused on building practical, real-world software solutions.
+I'm <a href="https://www.linkedin.com/in/afifataskeen"><b>Afifa</b></a>, a Computer Science (Artificial Intelligence) student interested in software development and building solutions that make everyday tasks simpler and easier.
 
-I’m currently strengthening my skills in **Data Structures & Algorithms**, **Web Development**, and **Machine Learning**.
-
-I have built:
-- **Complaint Management System** – A platform to efficiently manage and track user complaints  
-- **AI-Powered Leave Letter Generator** - Built a Generative AI-based application using LLM APIs to automatically generate structured and context-aware leave letters.
-  
-I’m particularly interested in developing technology that improves efficiency and simplifies everyday tasks.
+**Projects**
+- **Adaptive AAC Platform** *(in development)*: An Augmentative and Alternative Communication platform to support communication for children with cerebral palsy.
+- **Complaint Management System**: A web application for submitting, managing, and tracking complaints.
 
 <b>Let's connect!</b>
 
@@ -20,4 +17,3 @@ I’m particularly interested in developing technology that improves efficiency 
 
 </td>
 </tr>
-
